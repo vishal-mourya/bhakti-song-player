@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhakti-song-player/static/css/main.f855e6bc.css",
+    "main.js": "/bhakti-song-player/static/js/main.9704f09e.js",
+    "static/js/453.758cb312.chunk.js": "/bhakti-song-player/static/js/453.758cb312.chunk.js",
+    "index.html": "/bhakti-song-player/index.html",
+    "main.f855e6bc.css.map": "/bhakti-song-player/static/css/main.f855e6bc.css.map",
+    "main.9704f09e.js.map": "/bhakti-song-player/static/js/main.9704f09e.js.map",
+    "453.758cb312.chunk.js.map": "/bhakti-song-player/static/js/453.758cb312.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9704f09e.js"
+  ]
+}
